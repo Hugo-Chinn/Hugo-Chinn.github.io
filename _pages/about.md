@@ -10,12 +10,6 @@ redirect_from:
 
 How can we nurture and enhance our limited selves in a world full of boundless dreams?                      —— By HGQ
 
-```html
-<img src="../images/HGQ.jpg" alt="Image Description" width="300" height="200" align="left">
-```
-
-
-
 # About Me
 
 I am currently a third-year undergraduate student at [the School of  Data Science]([大数据学院 (ustc.edu.cn)](http://sds.ustc.edu.cn/main.htm)) , University of Science and Technology of China. I am about to join the [LDS (Lab for Date Science)]([data-science.ustc.edu.cn/main.htm](http://data-science.ustc.edu.cn/main.htm)) Laboratory under the guidance of Professor [Wang Xiang]([Xiang Wang, University of Science and Technology of China (xiangwang1223.github.io.)](https://xiangwang1223.github.io./)). I maintain a great curiosity about the world and am enthusiastic about exploring and appreciating all kinds of wonders. ฅ˙Ⱉ˙ฅ
