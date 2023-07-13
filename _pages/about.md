@@ -10,7 +10,18 @@ redirect_from:
 
 How can we nurture and enhance our limited selves in a world full of boundless dreams?                      —— By HGQ
 
-<img src="C:\Users\Lenovo\Desktop\github2023\page\Hugo-Chinn.github.io\images\HGQ.jpg" style="zoom: 25%;" />
+熙熙攘攘，几年时光，步入大学殿堂；
+纷纷扰扰，几度迷茫，蹉跎过后坚强。
+曾于恍惚中一鼓作气，
+也曾于黑暗中向往着光，
+我知我人生仍处混沌，
+一如藏地之种，
+可我也会竭力生长，
+破除自我的束缚，
+探索无垠的世界，
+反哺恩养的土地。
+懒回顾，多有不尽人意处；
+勤向前，少享虚度年华时！
 
 # About Me
 
