@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Hugo Chinn /(form Hu GuoQing)"
+title                    : "Hugo Chinn's HomePage "
 title_separator          : "-"
 name                     : &name "Hugo Chinn"
 description              : &description "personal description"

@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Hello, my fellow! "
-excerpt: "About me"
+excerpt: "About me<br/><img src='/images/HGQ.jpg'>"
 author_profile: true
 redirect_from: 
   - /about/
@@ -20,13 +20,7 @@ Investigate the principles to acquire knowledge.
 
 Then, enriching the limited self in a world of limitless dreams.
 
-Please feel free to contact me !!!  ⌯'▾'⌯
-
-My QQ: 2306106034 
-
-My echat:  PB15671953077
-
-My Email: [hu2306106034hu@163.com]()(preferred) or [hl15671953077@ustc.mail.edu.cn]()
+Please feel free to contact me !!!  ⌯'▾'⌯  My Email: [hu2306106034hu@163.com]() .
 
 # Education Experience
 
@@ -71,7 +65,7 @@ More info
 ------
 To be experienced and summarized. ੭ ᐕ)੭*⁾⁾
 
-熙熙攘攘，几年时光，步入大学殿堂；<br>
+熙熙攘攘，三年时光，步入大学殿堂；<br>
 纷纷扰扰，几度迷茫，蹉跎过后坚强。<br>
 曾于恍惚中一鼓作气，<br>
 也曾于黑暗处向往着光，<br>
