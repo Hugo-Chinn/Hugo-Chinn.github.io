@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Hello, my fellow! "
-excerpt: "About me<br/><img src='/images/HGQ.jpg'>"
+excerpt: "About me<br/><img src='../images/HGQ.jpg'>"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,6 +9,12 @@ redirect_from:
 ---
 
 How can we nurture and enhance our limited selves in a world full of boundless dreams?                      —— By HGQ
+
+```html
+<img src="../images/HGQ.jpg" alt="Image Description" width="300" height="200" align="left">
+```
+
+
 
 # About Me
 
