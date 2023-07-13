@@ -10,19 +10,6 @@ redirect_from:
 
 How can we nurture and enhance our limited selves in a world full of boundless dreams?                      —— By HGQ
 
-熙熙攘攘，几年时光，步入大学殿堂；
-纷纷扰扰，几度迷茫，蹉跎过后坚强。
-曾于恍惚中一鼓作气，
-也曾于黑暗中向往着光，
-我知我人生仍处混沌，
-一如藏地之种，
-可我也会竭力生长，
-破除自我的束缚，
-探索无垠的世界，
-反哺恩养的土地。
-懒回顾，多有不尽人意处；
-勤向前，少享虚度年华时！
-
 # About Me
 
 I am currently a third-year undergraduate student at [the School of  Data Science]([大数据学院 (ustc.edu.cn)](http://sds.ustc.edu.cn/main.htm)) , University of Science and Technology of China. I am about to join the [LDS (Lab for Date Science)]([data-science.ustc.edu.cn/main.htm](http://data-science.ustc.edu.cn/main.htm)) Laboratory under the guidance of Professor [Wang Xiang]([Xiang Wang, University of Science and Technology of China (xiangwang1223.github.io.)](https://xiangwang1223.github.io./)). I maintain a great curiosity about the world and am enthusiastic about exploring and appreciating all kinds of wonders. ฅ˙Ⱉ˙ฅ
@@ -83,3 +70,16 @@ My Email: [hu2306106034hu@163.com]()(preferred) or [hl15671953077@ustc.mail.edu.
 More info
 ------
 To be experienced and summarized. ੭ ᐕ)੭*⁾⁾
+
+熙熙攘攘，几年时光，步入大学殿堂；<br>
+纷纷扰扰，几度迷茫，蹉跎过后坚强。<br>
+曾于恍惚中一鼓作气，<br>
+也曾于黑暗处向往着光，<br>
+我知我人生仍处混沌，<br>
+一如藏地之种，<br>
+可我也会竭力生长，<br>
+破除自我的束缚，<br>
+探索无垠的世界，<br>
+反哺恩养的土地。<br>
+懒回顾，多有不尽人意处；<br>
+勤向前，少享虚度年华时！<br>
