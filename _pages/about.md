@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, my fellow! How can we nurture and enhance our limited selves in a world full of boundless dreams?"
+title: "Hello, my fellow! "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<img src="C:\Users\Lenovo\Desktop\github2023\page\Hugo-Chinn.github.io\images\_7f8be788b93c4ea91a1ee0256db6b591_880200481_mmexport1638782400730.jpg" style="zoom: 25%;" />
+How can we nurture and enhance our limited selves in a world full of boundless dreams?                      —— By HGQ
+
+<img src="C:\Users\Lenovo\Desktop\github2023\page\Hugo-Chinn.github.io\images\HGQ.jpg" style="zoom: 25%;" />
 
 # About Me
 
@@ -29,6 +31,8 @@ My echat:  PB15671953077
 My Email: [hu2306106034hu@163.com]()(preferred) or [hl15671953077@ustc.mail.edu.cn]()
 
 # Education Experience
+
+* **Bachelor of Science**  School of Data Science, University of Science and Technology of China, Hefei, Anhui Province, China From 2020.9 to Now.
 
 # Skills
 
