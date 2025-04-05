@@ -12,9 +12,9 @@ How can we nurture and enhance our limited selves in a world full of boundless d
 
 # About Me
 
-I am currently a third-year undergraduate student at [the School of  Data Science]([大数据学院 (ustc.edu.cn)](http://sds.ustc.edu.cn/main.htm)) , University of Science and Technology of China. I am about to join the [LDS (Lab for Date Science)]([data-science.ustc.edu.cn/main.htm](http://data-science.ustc.edu.cn/main.htm)) Laboratory under the guidance of Professor [Wang Xiang]([Xiang Wang, University of Science and Technology of China (xiangwang1223.github.io.)](https://xiangwang1223.github.io./)). I maintain a great curiosity about the world and am enthusiastic about exploring and appreciating all kinds of wonders. ฅ˙Ⱉ˙ฅ
+I am currently a first-year master student at [the School of Artificial Intelligence and Data Science]([大数据学院 (ustc.edu.cn)](http://saids.ustc.edu.cn/main.htm)) , University of Science and Technology of China. I am currently a member of [LDS (Lab for Date Science)]([data-science.ustc.edu.cn/main.htm](http://data-science.ustc.edu.cn/main.htm)) Laboratory，working under the supervision of Professor [Wang Xiang]([Xiang Wang, University of Science and Technology of China (xiangwang1223.github.io.)](https://xiangwang1223.github.io./)). I maintain a great curiosity about the world and am enthusiastic about exploring and appreciating all kinds of wonders. ฅ˙Ⱉ˙ฅ
 
-My research interest is uncertain as so far.  Orz
+My research interests include reasoning large language models, generative models, diffusion models, and recommendation systems.
 
 Investigate the principles to acquire knowledge.
 
@@ -24,7 +24,8 @@ Please feel free to contact me !!!  ⌯'▾'⌯  My Email: [hu2306106034hu@163.c
 
 # Education Experience
 
-* **Bachelor of Science**  School of Data Science, University of Science and Technology of China, Hefei, Anhui Province, China From 2020.9 to Now.
+* **Bachelor of Science**  School of Artificial Intelligence and Data Science, University of Science and Technology of China, Hefei, Anhui Province, China From 2020.9 to 2024.6.
+* **Master of Engineering**  School of Artificial Intelligence and Data Science, University of Science and Technology of China, Hefei, Anhui Province, China From 2024.9 to now.
 
 # Skills
 
